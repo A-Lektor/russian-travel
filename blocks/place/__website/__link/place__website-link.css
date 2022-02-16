@@ -1,4 +1,4 @@
-.website__link {
+.place__website-link {
   margin: 0;
   font-style: normal;
   font-weight: normal;
@@ -9,14 +9,14 @@
   color: #FFFFFF;
   transition: opacity .2s ease;
 }
-.website__link:hover {
+.place__website-link:hover {
   opacity: 0.8;
 }
 
 
 
 @media screen and (max-width: 620px) {
-  .website__link {
+  .place__website-link {
     margin-left: 16px;
   }
 }

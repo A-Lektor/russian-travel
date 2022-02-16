@@ -1,4 +1,4 @@
-.website__heading {
+.place__website-heading {
   margin: 0;
   margin-bottom: 12px;
   font-style: normal;
@@ -12,7 +12,7 @@
 
 
 @media screen and (max-width: 620px) {
-  .website__heading {
+  .place__website-heading {
     margin: 32px auto 12px auto;
     width: calc(100% - 32px);
   }
