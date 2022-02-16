@@ -1,0 +1,19 @@
+.place__website__heading {
+  margin: 0;
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+}
+
+
+
+@media screen and (max-width: 620px) {
+  .place__website__heading {
+    margin: 32px auto 12px auto;
+    width: calc(100% - 32px);
+  }
+}
